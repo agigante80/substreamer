@@ -1,0 +1,10 @@
+# Things this project has decided it may show. Tracked and public on purpose.
+# Keys: root, prefix, email (public scanner); skip (both).
+# NEVER put a private NAME here — the file is public, and a name would be an index.
+root proj
+# CONTRIBUTING.md: generic shell dotfile mentioned in setup instructions
+root .zprofile
+# CONTRIBUTING.md, scripts/build-android.sh: generic macOS tool root
+root Library
+# docs/privacy.html:77: upstream project's own public contact address (its own domain)
+email gaven@substreamer.org
