@@ -8,3 +8,13 @@ root .zprofile
 root Library
 # docs/privacy.html:77: upstream project's own public contact address (its own domain)
 email gaven@substreamer.org
+
+# Upstream's history (this is a fork): the upstream author's machine and addresses, a
+# translation bot, and Kotlin `this@Class` fragments the email rule mistakes for addresses.
+prefix /Users/ghenry
+email ghenry22.apps@gmail.com
+email jh.henrichs@gmail.com
+email david@dcvz.io
+email support+bot@crowdin.com
+email this@BaseAudioPlayer.oldPosition
+email this@BaseAudioPlayer.cache
